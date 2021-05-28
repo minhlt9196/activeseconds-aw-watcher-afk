@@ -10,8 +10,8 @@ aw-watcher-afk = "aw_watcher_afk:main"
 
 [tool.poetry.dependencies]
 python = "^3.7"
-aw-core = {git = "https://github.com/TimeBench/aw-core.git"}
-aw-client = {git = "https://github.com/TimeBench/aw-client.git"}
+aw-core = {git = "https://github.com/minhlt9196/aw-core.git"}
+aw-client = {git = "https://github.com/minhlt9196/aw-client.git"}
 pyobjc-framework-Quartz = { version = "^7.0", platform = "darwin" }
 python-xlib = { version = "^0.28", platform = "linux" }
 pynput = "^1.7.3"
